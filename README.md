@@ -1,5 +1,5 @@
 # tchambows
-
+Project created to study Vue.js Vuetify ARIA compliance and perfomance optimization
 ## Project setup
 ```
 npm install
